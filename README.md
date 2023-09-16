@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header"/>
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://oneyker21.github.io/" _BLANK>Oneyker21</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
@@ -19,7 +20,7 @@
 <br>
 
 [![GitHub followers](https://img.shields.io/github/followers/Oneyker21.svg?style=social&label=Followers)](https://github.com/Oneyker21?tab=followers)</a>
-
+> "La constancia vence lo que la dicha no alcanza."
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -74,3 +75,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Oneyker21&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
