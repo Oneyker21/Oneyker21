@@ -7,7 +7,6 @@
 
 <h2 align="left">-->Sobre mi</h2>
 
-- ⭐ Github Star ⭐ 
 - 📲 Front-end developer
 - ✏️ Master in design
 - 🧑🏻‍💻 System Engineer
