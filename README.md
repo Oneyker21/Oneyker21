@@ -21,6 +21,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Oneyker21.svg?style=social&label=Followers)](https://github.com/Oneyker21?tab=followers)</a>
 > "La constancia vence lo que la dicha no alcanza."
+> 
+> "Nicaragua 📍."
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
