@@ -88,5 +88,12 @@
 </td>
 </tr>
 </table>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+<img align="center" src="https://raw.githubusercontent.com/Oneyker21/Summary-templates/master/profile-summary-card-output/algolia/0-profile-details.svg">
+</td>
+</tr>
+</table>
 </p>        
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
