@@ -72,6 +72,13 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 <p align="center">
+  <table align="center">
+<tr border="none">
+<td width="50%" align="center">
+<img align="center" src="https://raw.githubusercontent.com/Oneyker21/Summary-templates/master/profile-summary-card-output/algolia/0-profile-details.svg">
+</td>
+</tr>
+</table>
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -84,16 +91,9 @@
 
 <td width="50%" align="center">
   <img  align="center"   src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Oneyker21&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
 </td>
 </tr>
 </table>
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-<img align="center" src="https://raw.githubusercontent.com/Oneyker21/Summary-templates/master/profile-summary-card-output/algolia/0-profile-details.svg">
-</td>
-</tr>
-</table>
+
 </p>        
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
