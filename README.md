@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header"/>
-<div align="center">
-<h1 align="center">Hi, I'm <a href="https://oneyker21.github.io/" _BLANK>Oneyker21</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-</div>
-<div align="center">
-<img src="https://i.imgur.com/VLBgHe0.jpeg">
-</div>
+  <div align="center">
+    <h1 align="center">Hi, I'm <a href="https://oneyker21.github.io/" _BLANK>Oneyker21</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  </div>
+  <div align="center">
+    <img src="https://i.imgur.com/VLBgHe0.jpeg">
+  </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Oneyker+Galeano..&hearts;++;Front-End+Developer,;Engineer+System+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?          font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Oneyker+Galeano..&hearts;++;Front-End+Developer,;Engineer+System+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -37,22 +37,15 @@
   
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-
-
 - **Database**:
 
    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-    
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
 
 - **Softwares and Tools**:
 
@@ -65,9 +58,8 @@
 
 <br>
   
-
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -75,7 +67,7 @@
   <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-<img align="center" src="https://raw.githubusercontent.com/Oneyker21/Summary-templates/master/profile-summary-card-output/algolia/0-profile-details.svg">
+  <img align="center" src="https://raw.githubusercontent.com/Oneyker21/Summary-templates/master/profile-summary-card-output/algolia/0-profile-details.svg">
 </td>
 </tr>
 </table>
@@ -94,6 +86,5 @@
 </td>
 </tr>
 </table>
-
 </p>        
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
