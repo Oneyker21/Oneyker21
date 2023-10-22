@@ -39,6 +39,7 @@
 - **Database**:
 
    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+   ![Microsoft Sql Server]( https://img.shields.io/badge/-Sql%20Server-cc2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 - **Front-End Development**:
 
