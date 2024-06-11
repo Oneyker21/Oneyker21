@@ -11,6 +11,13 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  **About me**
 
+
+
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="none">
+
 - 📲 Front-end developer
 - ✏️ Master in design
 - 🧑🏻‍💻 System Engineer
@@ -21,6 +28,20 @@
 > "La constancia vence lo que la dicha no alcanza."
 > 
 > "Nicaragua 📍."
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://app.daily.dev/oneyker21"><img src="https://api.daily.dev/devcards/v2/sSVIWf7PX7kpYYt6v9vTF.png?type=wide&r=nxq" width="652" alt="Oneyker's Dev Card"/></a>
+
+</td>
+</tr>
+</table>
+
+
+
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -87,5 +108,8 @@
 </td>
 </tr>
 </table>
-</p>        
+</p>    
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
+
+
