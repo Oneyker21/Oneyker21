@@ -3,7 +3,7 @@
     <h1 align="center">Hi, I'm <a href="https://oneyker21.github.io/" _BLANK>Oneyker21</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   </div>
   <div align="center">
-    <img src="https://i.imgur.com/VLBgHe0.jpeg">
+    <img src="https://i.imgur.com/WXh53CK.jpg">
   </div>
   
 
